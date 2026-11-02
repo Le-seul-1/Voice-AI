@@ -1,0 +1,38 @@
+[
+  {
+    "id": "CL-1001",
+    "name": "Camille Martin",
+    "card_last4": "4242",
+    "card_status": "active",
+    "card_type": "Visa Classic",
+    "agency": "République",
+    "phone": "06 12 34 56 78"
+  },
+  {
+    "id": "CL-1002",
+    "name": "Youssef Benali",
+    "card_last4": "1234",
+    "card_status": "blocked",
+    "card_type": "Visa Premier",
+    "agency": "Bellecour",
+    "phone": "06 23 45 67 89"
+  },
+  {
+    "id": "CL-1003",
+    "name": "Amina Diallo",
+    "card_last4": "5678",
+    "card_status": "active",
+    "card_type": "Visa Classic",
+    "agency": "Prado",
+    "phone": "06 34 56 78 90"
+  },
+  {
+    "id": "CL-1004",
+    "name": "Lucas Moreau",
+    "card_last4": "9876",
+    "card_status": "active",
+    "card_type": "Visa Classic",
+    "agency": "Centre",
+    "phone": "06 45 67 89 01"
+  }
+]

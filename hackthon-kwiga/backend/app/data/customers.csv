@@ -1,0 +1,5 @@
+id,name,card_last4,card_status,card_type,agency,phone
+CL-1001,Camille Martin,4242,active,Visa Classic,République,06 12 34 56 78
+CL-1002,Youssef Benali,1234,blocked,Visa Premier,Bellecour,06 23 45 67 89
+CL-1003,Amina Diallo,5678,active,Visa Classic,Prado,06 34 56 78 90
+CL-1004,Lucas Moreau,9876,active,Visa Classic,Centre,06 45 67 89 01

@@ -1,0 +1,5 @@
+name,city,address,hours,phone,access
+Agence République,Paris,"12 place de la République, 75011 Paris","Lundi au vendredi, 9 h - 17 h 30",01 23 45 67 89,"Métro République (lignes 3, 5, 8, 9, 11) · Accès PMR"
+Agence Bellecour,Lyon,"4 place Bellecour, 69002 Lyon","Lundi au vendredi, 9 h - 17 h",04 78 12 34 56,"Métro Bellecour (lignes A et D)"
+Agence Prado,Marseille,"25 avenue du Prado, 13006 Marseille","Lundi au vendredi, 9 h - 17 h · Samedi, 9 h - 12 h",04 91 23 45 67,"Parking visiteurs disponible"
+Agence Centre,Lille,"8 rue Nationale, 59000 Lille","Lundi au vendredi, 9 h - 17 h 30",03 20 12 34 56,"À 5 minutes à pied de la gare Lille-Flandres"

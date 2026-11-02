@@ -1,0 +1,22 @@
+[
+  "Bonjour ! Je suis l'assistant Banque Claire. Je peux vous renseigner sur l'ouverture de compte, les cartes bancaires, les crédits, les agences et les produits, ou enregistrer une réclamation. Que puis-je faire pour vous ?",
+  "Je peux vous aider à débloquer votre carte. Pouvez-vous me donner votre identifiant client (par exemple CL-1002) ou les quatre derniers chiffres de votre carte ?",
+  "J'ai trouvé votre carte Visa Premier terminant par 1234 ; elle est actuellement bloquée. Souhaitez-vous que je la débloque maintenant ?",
+  "C'est fait : votre carte Visa Premier terminant par 1234 est de nouveau active. Vous pouvez l'utiliser immédiatement ; en cas de nouveau refus, contactez un conseiller.",
+  "Pour une carte perdue, volée ou en cas de fraude, faites opposition immédiatement au 01 23 45 67 89, 24 heures sur 24 et 7 jours sur 7, ou depuis l'application Claire & Moi. L'opposition est gratuite et définitive ; une nouvelle carte est expédiée sous 5 à 7 jours ouvrés.",
+  "Très bien, je ne modifie rien. Votre carte reste bloquée. Je peux vous mettre en relation avec un conseiller si vous le souhaitez.",
+  "Souhaitez-vous que je débloque votre carte maintenant ? Répondez par oui ou non.",
+  "Je ne trouve pas de carte avec ces informations. Vérifiez l'identifiant client (par exemple CL-1002) ou les quatre derniers chiffres, puis réessayez.",
+  "Votre carte Visa Premier terminant par 1234 est déjà active. Si un paiement a été refusé, vérifiez le plafond dans l'application ou demandez un conseiller.",
+  "Je transmets votre demande à un conseiller. Un ticket vient d'être créé et vous serez contacté dans les meilleurs délais. Souhaitez-vous ajouter une précision ?",
+  "L'agence République, 12 place de la République, 75011 Paris. Horaires : Lundi au vendredi, 9 h - 17 h 30. Téléphone : 01 23 45 67 89. L'agence est actuellement très fréquentée : 12 personnes sont présentes et la zone d'attente est en alerte. Je vous conseille de venir en dehors du pic ou de prendre rendez-vous.",
+  "L'agence Bellecour, 4 place Bellecour, 69002 Lyon. Horaires : Lundi au vendredi, 9 h - 17 h. Téléphone : 04 78 12 34 56. Il y a actuellement 4 personnes dans l'agence. L'agence est ouverte sans rendez-vous pour les opérations courantes.",
+  "Pour ouvrir un compte courant à Banque Claire, il faut une pièce d'identité valide, un justificatif de domicile de moins de trois mois et, selon la formule choisie, un justificatif de revenus.",
+  "Le Compte Essentiel coûte 2,90 € par mois et inclut une carte Visa Classic ainsi que les virements SEPA.",
+  "Le crédit à la consommation est proposé de 500 € à 75 000 €, sur une durée de 12 à 84 mois, avec un taux annuel effectif global entre 3,9 % et 6,9 %.",
+  "Le Livret Claire est rémunéré à 2,5 % brut par an, avec un plafond de dépôt de 22 950 €.",
+  "Les virements SEPA sont gratuits depuis l'application et arrivent généralement sous 1 à 2 jours ouvrés.",
+  "Votre réclamation est enregistrée. Un conseiller suit votre dossier et vous recevrez une réponse sous 10 jours ouvrés.",
+  "Je n'ai pas cette information sous la main. Je peux transmettre votre demande à un conseiller qui vous répondra rapidement.",
+  "L'agence est calme en ce moment, avec 2 personne(s) présente(s)."
+]
